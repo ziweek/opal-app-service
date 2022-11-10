@@ -1,4 +1,4 @@
-# leisure-recommendation-service
+# opal-app-service
 
 
 <img src="./src/banner.png" width=100%>
